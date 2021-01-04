@@ -25,6 +25,6 @@ public class PostController {
 
     @PatchMapping
     public void patch() {
-        
+
     }
 }
